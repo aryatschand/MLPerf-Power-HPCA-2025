@@ -6,6 +6,18 @@ Rapid adoption of machine learning (ML) technologies has led to a surge in power
 
 All data (except for Figure 11b) is publicaly accessible on the MLCommons website (https://mlcommons.org/benchmarks/). The data is separated by category, so for example, you can access the inference datacenter submission measurements across all benchmarks and versions at (https://mlcommons.org/benchmarks/inference-datacenter/). To access submissions with power measurements, click on the 'Division/Power' dropdown in the Results table and set it to 'Closed - Power'. Now, you can access every submission with submitted power measurements across every MLPerf version and division benchmark. 
 
+# Reproduce Data and Figures
+
+We have provided a Dockerfile to easily reproduce the derived data and all data-driven figures from the MLPerf Power paper. To run this, you must have docker installed on your machine. Once docker is installed, simply run:
+
+```
+./run_docker.sh
+```
+
+This will build a docker container with the cleaned MLPerf Power data, figure code, and all required dependencies. It will then run all the code to create each figure in the container, create a new 'figures' directory locally on your machine, and copy all the figures over. Once the script is done executing. You can inspect the post-processed data and generated figures and verify that they match the paper. 
+
+We encourage users to build on our analysis and draw deeper insights from the MLPerf Power submission data. We anticipate that there is still much to learn about energy efficiency optimizations from the data and logs
+
 # Figure Descriptions
 
 ## Figure 1
@@ -91,15 +103,3 @@ v3.1 - 3.1-0127
 Description - Energy efficiency from hardware optimizations on consecutive versions of the same family of systems.
 
 Data Source - These measurements are proprietary and not verified by MLPerf Power. We report the data and figure to show the trends in energy efficiency improvements from hardware optimizations.
-
-# Reproduce Data and Figures
-
-We have provided a Dockerfile to easily reproduce the derived data and all data-driven figures from the MLPerf Power paper. To run this, you must have docker installed on your machine. Once docker is installed, simply run:
-
-```
-./run_docker.sh
-```
-
-This will build a docker container with the cleaned MLPerf Power data, figure code, and all required dependencies. It will then run all the code to create each figure in the container, create a new 'figures' directory locally on your machine, and copy all the figures over. Once the script is done executing. You can inspect the post-processed data and generated figures and verify that they match the paper. 
-
-We encourage users to build on our analysis and draw deeper insights from the MLPerf Power submission data. We anticipate that there is still much to learn about energy efficiency optimizations from the data and logs
