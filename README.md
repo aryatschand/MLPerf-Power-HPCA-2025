@@ -6,6 +6,10 @@ Rapid adoption of machine learning (ML) technologies has led to a surge in power
 
 All data (except for Figure 11b) is publicaly accessible on the MLCommons website (https://mlcommons.org/benchmarks/). The data is separated by category, so for example, you can access the inference datacenter submission measurements across all benchmarks and versions at (https://mlcommons.org/benchmarks/inference-datacenter/). To access submissions with power measurements, click on the 'Division/Power' dropdown in the Results table and set it to 'Closed - Power'. Now, you can access every submission with submitted power measurements across every MLPerf version and division benchmark. 
 
+The raw data dumped from the MLPerf benchmark website can be found in '/raw_data.csv'. This contains all power and performance data from all submission divisions. This raw data is an aggregation from exporting all data directly from the website. Between the public data found on the website and '/raw_data.csv', there is no data processing beyond a simple aggregation.
+
+This data is cleaned, filtered by division, and dumped into '/code/data_cleaned_{division}.csv'. This process only involves filtering our rows that do not fit the division or do not contain power measurements, and filtering our columns that contain data that is not relevant for system identification and evaluation. This data is used to create the figures in the paper, and all pre-processing work to calculate the data displayed in the graph can be found in the figure's corresponding python file in the '/code' directory.
+
 # Reproduce Data and Figures
 
 We have provided a Dockerfile to easily reproduce the derived data and all data-driven figures from the MLPerf Power paper. To run this, you must have docker installed on your machine. Once docker is installed, simply run:
