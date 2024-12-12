@@ -4,7 +4,7 @@ Rapid adoption of machine learning (ML) technologies has led to a surge in power
 
 # MLPerf Data
 
-All data (except for Figure 11b) is publicaly accessible on the MLCommons website (https://mlcommons.org/benchmarks/). The data is separated by category, so for example, you can access the inference datacenter submission measurements across all benchmarks and versions at (https://mlcommons.org/benchmarks/inference-datacenter/). To access submissions with power measurements, click on the 'Division/Power' dropdown in the Results table and set it to 'Closed - Power'. Now, you can access every submission with submitted power measurements across every MLPerf version and division benchmark. 
+All data (except for Figure 11b) is publicaly accessible on the MLCommons website (https://mlcommons.org/benchmarks/). The data is separated by category, so for example, you can access the inference datacenter submission measurements across all benchmarks and versions at (https://mlcommons.org/benchmarks/inference-datacenter/). To access submissions with power measurements, click on the 'Division/Power' dropdown in the Results table and set it to 'Closed - Power'. Now, you can access every submission with submitted power measurements across every MLPerf version and division benchmark.
 
 The raw data dumped from the MLPerf benchmark website can be found in '/raw_data.csv'. This contains all power and performance data from all submission divisions. This raw data is an aggregation from exporting all data directly from the website. Between the public data found on the website and '/raw_data.csv', there is no data processing beyond a simple aggregation.
 
@@ -78,12 +78,7 @@ Description - Energy efficiency at low and high accuracy BERT benchmark targets.
 
 Data Source - Energy efficiency numbers are from publicly accessible MLPerf Power Training v1.0 - v4.0 data on comparable NVIDIA DGX 8 accelerator system submissions on the LLama2 benchmark. Specifically, the submissions are:
 
-v1.0 - 1.0-73
-v1.1 - 1.1-048
-v2.0 - 2.0-095
-v2.1 - 2.1-0089
-v3.1 - 3.1-0109
-v4.0 - 4.0-0063
+v1.0 - 1.0-73, v1.1 - 1.1-048, v2.0 - 2.0-095, v2.1 - 2.1-0089, v3.1 - 3.1-0109, v4.0 - 4.0-0063
 
 ## Figure 10
 
@@ -97,10 +92,7 @@ Description - Energy efficiency from software optimizations on an identical syst
 
 Data Source - Energy efficiency numbers are from publicly accessible MLPerf Power offline inference edge v1.1 - v3.1 data on comparable GIGABYTE R282 system submissions on the ResNet benchmark. Specifically, the submissions are:
 
-v1.1 - 1.1-124
-v2.0 - 2.0-132
-v3.0 - 3.0-0101
-v3.1 - 3.1-0127
+v1.1 - 1.1-124, v2.0 - 2.0-132, v3.0 - 3.0-0101, v3.1 - 3.1-0127
 
 ## Figure 11b
 
