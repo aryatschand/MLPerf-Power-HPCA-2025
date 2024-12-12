@@ -1,0 +1,512 @@
+Public ID,Organization,SystemType,SystemName,Model,Model MLC,Scenario,Result,number_of_nodes,host_processor_model_name,host_processors_per_node,accelerator_model_name,accelerators_per_node,Software,operating_system,notes,version,date,vdate,Units,Total Accelerators
+0.5-464,Harvard (Reference),,Nucleo-L4R5ZI,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,603.1363088,1.0,Arm Cortex-M4 w/ FPU,1.0,,1.0,Tensorflow Lite for Microcontrollers,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-464,Harvard (Reference),,Nucleo-L4R5ZI,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,24320.841,1.0,Arm Cortex-M4 w/ FPU,1.0,,1.0,Tensorflow Lite for Microcontrollers,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-464,Harvard (Reference),,Nucleo-L4R5ZI,ResNet-V1,ResNet-V1,,704.2253521,1.0,Arm Cortex-M4 w/ FPU,1.0,,1.0,Tensorflow Lite for Microcontrollers,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-464,Harvard (Reference),,Nucleo-L4R5ZI,ResNet-V1,ResNet-V1,,29207.01,1.0,Arm Cortex-M4 w/ FPU,1.0,,1.0,Tensorflow Lite for Microcontrollers,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-464,Harvard (Reference),,Nucleo-L4R5ZI,DSCNN,DSCNN,,181.9174095,1.0,Arm Cortex-M4 w/ FPU,1.0,,1.0,Tensorflow Lite for Microcontrollers,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-464,Harvard (Reference),,Nucleo-L4R5ZI,DSCNN,DSCNN,,7373.704,1.0,Arm Cortex-M4 w/ FPU,1.0,,1.0,Tensorflow Lite for Microcontrollers,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-464,Harvard (Reference),,Nucleo-L4R5ZI,FC AutoEncoder,FC AutoEncoder,,10.39998336,1.0,Arm Cortex-M4 w/ FPU,1.0,,1.0,Tensorflow Lite for Microcontrollers,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-464,Harvard (Reference),,Nucleo-L4R5ZI,FC AutoEncoder,FC AutoEncoder,,416.312,1.0,Arm Cortex-M4 w/ FPU,1.0,,1.0,Tensorflow Lite for Microcontrollers,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-464,Harvard (Reference),,Nucleo-L4R5ZI,FC AutoEncoder,FC AutoEncoder,,details,1.0,Arm Cortex-M4 w/ FPU,1.0,,1.0,Tensorflow Lite for Microcontrollers,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-464,Harvard (Reference),,Nucleo-L4R5ZI,FC AutoEncoder,FC AutoEncoder,,code,1.0,Arm Cortex-M4 w/ FPU,1.0,,1.0,Tensorflow Lite for Microcontrollers,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-464,Harvard (Reference),,Nucleo-L4R5ZI,FC AutoEncoder,FC AutoEncoder,,Cross Checked by Danilo Pau (STMicroelectronics),1.0,Arm Cortex-M4 w/ FPU,1.0,,1.0,Tensorflow Lite for Microcontrollers,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-466,Latent AI,,Raspberry Pi 4,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,3.74547265,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-466,Latent AI,,Raspberry Pi 4,ResNet-V1,ResNet-V1,,1.31234629,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-466,Latent AI,,Raspberry Pi 4,DSCNN,DSCNN,,0.39323045,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-466,Latent AI,,Raspberry Pi 4,FC AutoEncoder,FC AutoEncoder,,0.16854893,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-466,Latent AI,,Raspberry Pi 4,FC AutoEncoder,FC AutoEncoder,,details,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-466,Latent AI,,Raspberry Pi 4,FC AutoEncoder,FC AutoEncoder,,code,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-466,Latent AI,,Raspberry Pi 4,FC AutoEncoder,FC AutoEncoder,,fp32,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-467,Latent AI,,Raspberry Pi 4,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,2.59929974,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-467,Latent AI,,Raspberry Pi 4,ResNet-V1,ResNet-V1,,1.07148865,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-467,Latent AI,,Raspberry Pi 4,DSCNN,DSCNN,,0.42147019,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-467,Latent AI,,Raspberry Pi 4,FC AutoEncoder,FC AutoEncoder,,0.19209206,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-467,Latent AI,,Raspberry Pi 4,FC AutoEncoder,FC AutoEncoder,,details,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-467,Latent AI,,Raspberry Pi 4,FC AutoEncoder,FC AutoEncoder,,code,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-467,Latent AI,,Raspberry Pi 4,FC AutoEncoder,FC AutoEncoder,,int8,1.0,Broadcom BCM2711,1.0,,1.0,LEIP Framework,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-465,Peng Cheng Laboratory,,PCL Scepu02,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,846.74,1.0,RV32IMAC with FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers 2.3.1 (modified),,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-465,Peng Cheng Laboratory,,PCL Scepu02,ResNet-V1,ResNet-V1,,1239.16,1.0,RV32IMAC with FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers 2.3.1 (modified),,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-465,Peng Cheng Laboratory,,PCL Scepu02,DSCNN,DSCNN,,325.63,1.0,RV32IMAC with FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers 2.3.1 (modified),,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-465,Peng Cheng Laboratory,,PCL Scepu02,FC AutoEncoder,FC AutoEncoder,,13.65,1.0,RV32IMAC with FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers 2.3.1 (modified),,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-465,Peng Cheng Laboratory,,PCL Scepu02,FC AutoEncoder,FC AutoEncoder,,details,1.0,RV32IMAC with FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers 2.3.1 (modified),,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-465,Peng Cheng Laboratory,,PCL Scepu02,FC AutoEncoder,FC AutoEncoder,,code,1.0,RV32IMAC with FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers 2.3.1 (modified),,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-468,Syntiant,,NDP9120,DSCNN,DSCNN,,5.95,1.0,Cortex-M0 (1),1.0,Syntiant Core 2,1.0,TensorFlow; Syntiant TDK; SDK,,,v0.5,6/10/2021,Tiny v0.5,Latency in ms,1.0
+0.5-468,Syntiant,,NDP9120,FC AutoEncoder,FC AutoEncoder,,details,1.0,Cortex-M0 (1),1.0,Syntiant Core 2,1.0,TensorFlow; Syntiant TDK; SDK,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.5-468,Syntiant,,NDP9120,FC AutoEncoder,FC AutoEncoder,,code,1.0,Cortex-M0 (1),1.0,Syntiant Core 2,1.0,TensorFlow; Syntiant TDK; SDK,,,v0.5,6/10/2021,Tiny v0.5,Energy in uJ,1.0
+0.7-2001,Andes,,ADP-XC7K160/410 FPGA,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,296.38,1.0,AndesCore��� D25F; 5-stage; single-issue; RV32 IMACP (1),1.0,RISC-V P Extension,1.0,TensorFlowLite for Microcontrollers; Andes NN Library,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2001,Andes,,ADP-XC7K160/410 FPGA,ResNet-V1,ResNet-V1,,304.69,1.0,AndesCore��� D25F; 5-stage; single-issue; RV32 IMACP (1),1.0,RISC-V P Extension,1.0,TensorFlowLite for Microcontrollers; Andes NN Library,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2001,Andes,,ADP-XC7K160/410 FPGA,DSCNN,DSCNN,,79.85,1.0,AndesCore��� D25F; 5-stage; single-issue; RV32 IMACP (1),1.0,RISC-V P Extension,1.0,TensorFlowLite for Microcontrollers; Andes NN Library,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2001,Andes,,ADP-XC7K160/410 FPGA,FC AutoEncoder,FC AutoEncoder,,16.8,1.0,AndesCore��� D25F; 5-stage; single-issue; RV32 IMACP (1),1.0,RISC-V P Extension,1.0,TensorFlowLite for Microcontrollers; Andes NN Library,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2002,Andes,,ADP-XC7K160/410 FPGA,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,225.58,1.0,AndesCore��� D45; 8-stage; dual-issue; RV32 IMACP (1),1.0,RISC-V P Extension,1.0,TensorFlowLite for Microcontrollers; Andes NN Library,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2002,Andes,,ADP-XC7K160/410 FPGA,ResNet-V1,ResNet-V1,,227.69,1.0,AndesCore��� D45; 8-stage; dual-issue; RV32 IMACP (1),1.0,RISC-V P Extension,1.0,TensorFlowLite for Microcontrollers; Andes NN Library,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2002,Andes,,ADP-XC7K160/410 FPGA,DSCNN,DSCNN,,68.31,1.0,AndesCore��� D45; 8-stage; dual-issue; RV32 IMACP (1),1.0,RISC-V P Extension,1.0,TensorFlowLite for Microcontrollers; Andes NN Library,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2002,Andes,,ADP-XC7K160/410 FPGA,FC AutoEncoder,FC AutoEncoder,,12.13,1.0,AndesCore��� D45; 8-stage; dual-issue; RV32 IMACP (1),1.0,RISC-V P Extension,1.0,TensorFlowLite for Microcontrollers; Andes NN Library,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2003,Andes,,Xilinx VCU118 FPGA,FC AutoEncoder,FC AutoEncoder,,4.09,1.0,AndesCore��� NX27V; 5-stage; single-issue; RV64 IMACV; RVV(VLEN; SIMD; BIU)=(128; 128; 128) (1),1.0,RISC-V V Extension,1.0,TensorFlowLite for Microcontrollers;  Andes NN Library,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2004,Plumerai,,NUCLEO-L4R5ZI,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,220.4,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai inference engine,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2004,Plumerai,,NUCLEO-L4R5ZI,ResNet-V1,ResNet-V1,,184.6,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai inference engine,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2004,Plumerai,,NUCLEO-L4R5ZI,DSCNN,DSCNN,,73.5,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai inference engine,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2004,Plumerai,,NUCLEO-L4R5ZI,FC AutoEncoder,FC AutoEncoder,,5.9,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai inference engine,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2005,Plumerai,,CY8CPROTO_062_4343w,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,200,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai inference engine,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2005,Plumerai,,CY8CPROTO_062_4343w,ResNet-V1,ResNet-V1,,202.8,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai inference engine,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2005,Plumerai,,CY8CPROTO_062_4343w,DSCNN,DSCNN,,63.6,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai inference engine,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2005,Plumerai,,CY8CPROTO_062_4343w,FC AutoEncoder,FC AutoEncoder,,6.8,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai inference engine,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2006,Plumerai,,DISCO-F746NG,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,59.4,1.0,Arm�� Cortex��-M7,1.0,,1.0,Plumerai inference engine,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2006,Plumerai,,DISCO-F746NG,ResNet-V1,ResNet-V1,,65.1,1.0,Arm�� Cortex��-M7,1.0,,1.0,Plumerai inference engine,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2006,Plumerai,,DISCO-F746NG,DSCNN,DSCNN,,19.5,1.0,Arm�� Cortex��-M7,1.0,,1.0,Plumerai inference engine,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2006,Plumerai,,DISCO-F746NG,FC AutoEncoder,FC AutoEncoder,,2.4,1.0,Arm�� Cortex��-M7,1.0,,1.0,Plumerai inference engine,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2007,Renesas,,EK-RA6M4,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,162.3640201,1.0,Arm Cortex-M33 w/FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2007,Renesas,,EK-RA6M4,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,11851.829,1.0,Arm Cortex-M33 w/FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2007,Renesas,,EK-RA6M4,ResNet-V1,ResNet-V1,,246.1841457,1.0,Arm Cortex-M33 w/FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2007,Renesas,,EK-RA6M4,ResNet-V1,ResNet-V1,,17723.829,1.0,Arm Cortex-M33 w/FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2007,Renesas,,EK-RA6M4,DSCNN,DSCNN,,50.57145747,1.0,Arm Cortex-M33 w/FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2007,Renesas,,EK-RA6M4,DSCNN,DSCNN,,3796.957,1.0,Arm Cortex-M33 w/FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2007,Renesas,,EK-RA6M4,FC AutoEncoder,FC AutoEncoder,,4.613141919,1.0,Arm Cortex-M33 w/FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2007,Renesas,,EK-RA6M4,FC AutoEncoder,FC AutoEncoder,,324.088,1.0,Arm Cortex-M33 w/FPU(1),1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2008,Renesas,,RX65N-Cloud-Kit,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,248.5089463,1.0,Renesas RXv2,1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2008,Renesas,,RX65N-Cloud-Kit,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,13316.428,1.0,Renesas RXv2,1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2008,Renesas,,RX65N-Cloud-Kit,ResNet-V1,ResNet-V1,,289.3518519,1.0,Renesas RXv2,1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2008,Renesas,,RX65N-Cloud-Kit,ResNet-V1,ResNet-V1,,14350.888,1.0,Renesas RXv2,1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2008,Renesas,,RX65N-Cloud-Kit,DSCNN,DSCNN,,81.84645605,1.0,Renesas RXv2,1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2008,Renesas,,RX65N-Cloud-Kit,DSCNN,DSCNN,,4422.68,1.0,Renesas RXv2,1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2008,Renesas,,RX65N-Cloud-Kit,FC AutoEncoder,FC AutoEncoder,,8.553734561,1.0,Renesas RXv2,1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2008,Renesas,,RX65N-Cloud-Kit,FC AutoEncoder,FC AutoEncoder,,437.442,1.0,Renesas RXv2,1.0,,1.0,TensorFlowLite for Microcontrollers,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2014,Silicon Labs,,xG24-DK2601B,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,186.19,1.0,Cortex-M33(1),1.0,Silicon Labs MVP(1),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2014,Silicon Labs,,xG24-DK2601B,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,1721.774,1.0,Cortex-M33(1),1.0,Silicon Labs MVP(1),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2014,Silicon Labs,,xG24-DK2601B,ResNet-V1,ResNet-V1,,239.98,1.0,Cortex-M33(1),1.0,Silicon Labs MVP(1),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2014,Silicon Labs,,xG24-DK2601B,ResNet-V1,ResNet-V1,,2248.02,1.0,Cortex-M33(1),1.0,Silicon Labs MVP(1),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2014,Silicon Labs,,xG24-DK2601B,DSCNN,DSCNN,,63.09,1.0,Cortex-M33(1),1.0,Silicon Labs MVP(1),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2014,Silicon Labs,,xG24-DK2601B,DSCNN,DSCNN,,611.493,1.0,Cortex-M33(1),1.0,Silicon Labs MVP(1),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2014,Silicon Labs,,xG24-DK2601B,FC AutoEncoder,FC AutoEncoder,,5.41,1.0,Cortex-M33(1),1.0,Silicon Labs MVP(1),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2014,Silicon Labs,,xG24-DK2601B,FC AutoEncoder,FC AutoEncoder,,45.722,1.0,Cortex-M33(1),1.0,Silicon Labs MVP(1),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2009,STMicroelectronics,,NUCLEO-L4R5ZI,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,254.647,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2009,STMicroelectronics,,NUCLEO-L4R5ZI,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,12293.28,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2009,STMicroelectronics,,NUCLEO-L4R5ZI,ResNet-V1,ResNet-V1,,252.78,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2009,STMicroelectronics,,NUCLEO-L4R5ZI,ResNet-V1,ResNet-V1,,12298.29,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2009,STMicroelectronics,,NUCLEO-L4R5ZI,DSCNN,DSCNN,,97.646,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2009,STMicroelectronics,,NUCLEO-L4R5ZI,DSCNN,DSCNN,,4635.68,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2009,STMicroelectronics,,NUCLEO-L4R5ZI,FC AutoEncoder,FC AutoEncoder,,9.665,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2009,STMicroelectronics,,NUCLEO-L4R5ZI,FC AutoEncoder,FC AutoEncoder,,431.21,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2010,STMicroelectronics,,NUCLEO-U575ZI-Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,151.63,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2010,STMicroelectronics,,NUCLEO-U575ZI-Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,4030.97,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2010,STMicroelectronics,,NUCLEO-U575ZI-Q,ResNet-V1,ResNet-V1,,158.127,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2010,STMicroelectronics,,NUCLEO-U575ZI-Q,ResNet-V1,ResNet-V1,,4151.13,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2010,STMicroelectronics,,NUCLEO-U575ZI-Q,DSCNN,DSCNN,,54.812,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2010,STMicroelectronics,,NUCLEO-U575ZI-Q,DSCNN,DSCNN,,1482.4,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2010,STMicroelectronics,,NUCLEO-U575ZI-Q,FC AutoEncoder,FC AutoEncoder,,5.728,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2010,STMicroelectronics,,NUCLEO-U575ZI-Q,FC AutoEncoder,FC AutoEncoder,,152.56,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2011,STMicroelectronics,,NUCLEO-H7A3ZI-Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,64.37,1.0,ARM�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2011,STMicroelectronics,,NUCLEO-H7A3ZI-Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,10487.67,1.0,ARM�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2011,STMicroelectronics,,NUCLEO-H7A3ZI-Q,ResNet-V1,ResNet-V1,,70.363,1.0,ARM�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2011,STMicroelectronics,,NUCLEO-H7A3ZI-Q,ResNet-V1,ResNet-V1,,11200.2,1.0,ARM�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2011,STMicroelectronics,,NUCLEO-H7A3ZI-Q,DSCNN,DSCNN,,22.29,1.0,ARM�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2011,STMicroelectronics,,NUCLEO-H7A3ZI-Q,DSCNN,DSCNN,,3713.19,1.0,ARM�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2011,STMicroelectronics,,NUCLEO-H7A3ZI-Q,FC AutoEncoder,FC AutoEncoder,,2.281,1.0,ARM�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2011,STMicroelectronics,,NUCLEO-H7A3ZI-Q,FC AutoEncoder,FC AutoEncoder,,349.03,1.0,ARM�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.1.0,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2012,Syntiant,,syntiant_9120_1v1_98mhz,DSCNN,DSCNN,,1.8,1.0,M0 + HiFi,1.0,Syntiant Core 2,1.0,Syntiant TDK,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2012,Syntiant,,syntiant_9120_1v1_98mhz,DSCNN,DSCNN,,49.587,1.0,M0 + HiFi,1.0,Syntiant Core 2,1.0,Syntiant TDK,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+0.7-2013,Syntiant,,syntiant_9120_0v9_30mhz,DSCNN,DSCNN,,4.3,1.0,M0 + HiFi,1.0,Syntiant Core 2,1.0,Syntiant TDK,,,v0.7,2/14/2022,Tiny v0.7,Latency in ms,1.0
+0.7-2013,Syntiant,,syntiant_9120_0v9_30mhz,DSCNN,DSCNN,,35.286,1.0,M0 + HiFi,1.0,Syntiant Core 2,1.0,Syntiant TDK,,,v0.7,2/14/2022,Tiny v0.7,Energy in uJ,1.0
+1.0-9001,Greenwaves Technologies,,GAP9,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,1.125,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (370MHZ; 0.8Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9001,Greenwaves Technologies,,GAP9,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,58.356,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (370MHZ; 0.8Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9001,Greenwaves Technologies,,GAP9,ResNet-V1,ResNet-V1,,0.616,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (370MHZ; 0.8Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9001,Greenwaves Technologies,,GAP9,ResNet-V1,ResNet-V1,,40.356,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (370MHZ; 0.8Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9001,Greenwaves Technologies,,GAP9,DSCNN,DSCNN,,0.475,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (370MHZ; 0.8Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9001,Greenwaves Technologies,,GAP9,DSCNN,DSCNN,,26.659,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (370MHZ; 0.8Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9001,Greenwaves Technologies,,GAP9,FC AutoEncoder,FC AutoEncoder,,0.176,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (370MHZ; 0.8Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9001,Greenwaves Technologies,,GAP9,FC AutoEncoder,FC AutoEncoder,,7.294,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (370MHZ; 0.8Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9002,Greenwaves Technologies,,GAP9,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,1.733,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (240MHZ; 0.65Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9002,Greenwaves Technologies,,GAP9,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,40.801,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (240MHZ; 0.65Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9002,Greenwaves Technologies,,GAP9,ResNet-V1,ResNet-V1,,0.949,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (240MHZ; 0.65Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9002,Greenwaves Technologies,,GAP9,ResNet-V1,ResNet-V1,,27.711,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (240MHZ; 0.65Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9002,Greenwaves Technologies,,GAP9,DSCNN,DSCNN,,0.732,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (240MHZ; 0.65Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9002,Greenwaves Technologies,,GAP9,DSCNN,DSCNN,,18.561,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (240MHZ; 0.65Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9002,Greenwaves Technologies,,GAP9,FC AutoEncoder,FC AutoEncoder,,0.271,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (240MHZ; 0.65Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9002,Greenwaves Technologies,,GAP9,FC AutoEncoder,FC AutoEncoder,,5.252,1.0,RISC-V Core (1+9),1.0,NE16 (1),1.0,GreenWaves GAPFlow,,GAP9 (240MHZ; 0.65Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9003,OctoML,,nRF5340,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,232,1.0,Arm�� Cortex��-M33,1.0,,1.0,microTVM using CMSIS-NN backend,,128MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9003,OctoML,,nRF5340,ResNet-V1,ResNet-V1,,316.1,1.0,Arm�� Cortex��-M33,1.0,,1.0,microTVM using CMSIS-NN backend,,128MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9003,OctoML,,nRF5340,DSCNN,DSCNN,,76.1,1.0,Arm�� Cortex��-M33,1.0,,1.0,microTVM using CMSIS-NN backend,,128MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9003,OctoML,,nRF5340,FC AutoEncoder,FC AutoEncoder,,6.27,1.0,Arm�� Cortex��-M33,1.0,,1.0,microTVM using CMSIS-NN backend,,128MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9004,OctoML,,STM32L4R5ZIT6U,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,301.2,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using CMSIS-NN backend,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9004,OctoML,,STM32L4R5ZIT6U,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,15531.354,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using CMSIS-NN backend,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9004,OctoML,,STM32L4R5ZIT6U,ResNet-V1,ResNet-V1,,389.5,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using CMSIS-NN backend,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9004,OctoML,,STM32L4R5ZIT6U,ResNet-V1,ResNet-V1,,20236.298,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using CMSIS-NN backend,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9004,OctoML,,STM32L4R5ZIT6U,DSCNN,DSCNN,,99.8,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using CMSIS-NN backend,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9004,OctoML,,STM32L4R5ZIT6U,DSCNN,DSCNN,,5230.273,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using CMSIS-NN backend,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9004,OctoML,,STM32L4R5ZIT6U,FC AutoEncoder,FC AutoEncoder,,8.6,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using CMSIS-NN backend,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9004,OctoML,,STM32L4R5ZIT6U,FC AutoEncoder,FC AutoEncoder,,443.184,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using CMSIS-NN backend,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9005,OctoML,,STM32L4R5ZIT6U,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,336.5,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using native codegen,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9005,OctoML,,STM32L4R5ZIT6U,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,17131.583,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using native codegen,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9005,OctoML,,STM32L4R5ZIT6U,ResNet-V1,ResNet-V1,,389.2,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using native codegen,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9005,OctoML,,STM32L4R5ZIT6U,ResNet-V1,ResNet-V1,,21342.301,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using native codegen,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9005,OctoML,,STM32L4R5ZIT6U,DSCNN,DSCNN,,144,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using native codegen,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9005,OctoML,,STM32L4R5ZIT6U,DSCNN,DSCNN,,7950.51,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using native codegen,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9005,OctoML,,STM32L4R5ZIT6U,FC AutoEncoder,FC AutoEncoder,,11.7,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using native codegen,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9005,OctoML,,STM32L4R5ZIT6U,FC AutoEncoder,FC AutoEncoder,,633.734,1.0,Arm�� Cortex��-M4,1.0,,1.0,microTVM using native codegen,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9006,Plumerai,,STM32U585,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,107,1.0,Arm�� Cortex��-M33,1.0,,1.0,Plumerai Inference Engine 2022.09,,160MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9006,Plumerai,,STM32U585,ResNet-V1,ResNet-V1,,107.1,1.0,Arm�� Cortex��-M33,1.0,,1.0,Plumerai Inference Engine 2022.09,,160MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9006,Plumerai,,STM32U585,DSCNN,DSCNN,,35.4,1.0,Arm�� Cortex��-M33,1.0,,1.0,Plumerai Inference Engine 2022.09,,160MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9006,Plumerai,,STM32U585,FC AutoEncoder,FC AutoEncoder,,4.9,1.0,Arm�� Cortex��-M33,1.0,,1.0,Plumerai Inference Engine 2022.09,,160MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9007,Plumerai,,PSoC 62 MCU,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,192.5,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai Inference Engine 2022.09,,150MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9007,Plumerai,,PSoC 62 MCU,ResNet-V1,ResNet-V1,,193.1,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai Inference Engine 2022.09,,150MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9007,Plumerai,,PSoC 62 MCU,DSCNN,DSCNN,,61.4,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai Inference Engine 2022.09,,150MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9007,Plumerai,,PSoC 62 MCU,FC AutoEncoder,FC AutoEncoder,,6.7,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai Inference Engine 2022.09,,150MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9008,Plumerai,,STM32F746,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,57,1.0,Arm�� Cortex��-M7,1.0,,1.0,Plumerai Inference Engine 2022.09,,216MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9008,Plumerai,,STM32F746,ResNet-V1,ResNet-V1,,64.8,1.0,Arm�� Cortex��-M7,1.0,,1.0,Plumerai Inference Engine 2022.09,,216MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9008,Plumerai,,STM32F746,DSCNN,DSCNN,,19.1,1.0,Arm�� Cortex��-M7,1.0,,1.0,Plumerai Inference Engine 2022.09,,216MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9008,Plumerai,,STM32F746,FC AutoEncoder,FC AutoEncoder,,2.3,1.0,Arm�� Cortex��-M7,1.0,,1.0,Plumerai Inference Engine 2022.09,,216MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9009,Plumerai,,STM32L4R5ZIT6U,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,208.6,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai Inference Engine 2022.09,,120MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9009,Plumerai,,STM32L4R5ZIT6U,ResNet-V1,ResNet-V1,,173.2,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai Inference Engine 2022.09,,120MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9009,Plumerai,,STM32L4R5ZIT6U,DSCNN,DSCNN,,71.7,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai Inference Engine 2022.09,,120MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9009,Plumerai,,STM32L4R5ZIT6U,FC AutoEncoder,FC AutoEncoder,,5.6,1.0,Arm�� Cortex��-M4,1.0,,1.0,Plumerai Inference Engine 2022.09,,120MHz,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9016,Qualcomm,,Next Generation Snapdragon Mobile Platform,FC AutoEncoder,FC AutoEncoder,,0.098,1.0,Qualcomm Kryo CPU(1),1.0,Qualcomm Sensing Hub(1),1.0,Qualcomm AI Stack,,,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9010,Silicon Labs,,EFR32MG24,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,111.61,1.0,Arm�� Cortex��-M33,1.0,Silicon Labs MVP(1) (78 MHz; 1.8V),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9010,Silicon Labs,,EFR32MG24,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,1139.221,1.0,Arm�� Cortex��-M33,1.0,Silicon Labs MVP(1) (78 MHz; 1.8V),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9010,Silicon Labs,,EFR32MG24,ResNet-V1,ResNet-V1,,120.93,1.0,Arm�� Cortex��-M33,1.0,Silicon Labs MVP(1) (78 MHz; 1.8V),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9010,Silicon Labs,,EFR32MG24,ResNet-V1,ResNet-V1,,1234.65,1.0,Arm�� Cortex��-M33,1.0,Silicon Labs MVP(1) (78 MHz; 1.8V),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9010,Silicon Labs,,EFR32MG24,DSCNN,DSCNN,,36.28,1.0,Arm�� Cortex��-M33,1.0,Silicon Labs MVP(1) (78 MHz; 1.8V),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9010,Silicon Labs,,EFR32MG24,DSCNN,DSCNN,,401.861,1.0,Arm�� Cortex��-M33,1.0,Silicon Labs MVP(1) (78 MHz; 1.8V),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9010,Silicon Labs,,EFR32MG24,FC AutoEncoder,FC AutoEncoder,,5.43,1.0,Arm�� Cortex��-M33,1.0,Silicon Labs MVP(1) (78 MHz; 1.8V),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9010,Silicon Labs,,EFR32MG24,FC AutoEncoder,FC AutoEncoder,,47.299,1.0,Arm�� Cortex��-M33,1.0,Silicon Labs MVP(1) (78 MHz; 1.8V),1.0,TensorFlowLite for Microcontrollers; CMSIS-NN; Silicon Labs Gecko SDK,,,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9011,STMicroelectronics,,STM32H7A3ZIT6Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,50.7,1.0,Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,280MHz; 3.3Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9011,STMicroelectronics,,STM32H7A3ZIT6Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,7978.465,1.0,Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,280MHz; 3.3Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9011,STMicroelectronics,,STM32H7A3ZIT6Q,ResNet-V1,ResNet-V1,,54.34,1.0,Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,280MHz; 3.3Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9011,STMicroelectronics,,STM32H7A3ZIT6Q,ResNet-V1,ResNet-V1,,8707.284,1.0,Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,280MHz; 3.3Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9011,STMicroelectronics,,STM32H7A3ZIT6Q,DSCNN,DSCNN,,16.76,1.0,Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,280MHz; 3.3Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9011,STMicroelectronics,,STM32H7A3ZIT6Q,DSCNN,DSCNN,,2721.781,1.0,Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,280MHz; 3.3Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9011,STMicroelectronics,,STM32H7A3ZIT6Q,FC AutoEncoder,FC AutoEncoder,,1.82,1.0,Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,280MHz; 3.3Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9011,STMicroelectronics,,STM32H7A3ZIT6Q,FC AutoEncoder,FC AutoEncoder,,266.486,1.0,Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,280MHz; 3.3Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9012,STMicroelectronics,,STM32L4R5ZIT6U,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,230.48,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.3.0,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9012,STMicroelectronics,,STM32L4R5ZIT6U,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,10066.628,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.3.0,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9012,STMicroelectronics,,STM32L4R5ZIT6U,ResNet-V1,ResNet-V1,,226.9,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.3.0,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9012,STMicroelectronics,,STM32L4R5ZIT6U,ResNet-V1,ResNet-V1,,10681.623,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.3.0,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9012,STMicroelectronics,,STM32L4R5ZIT6U,DSCNN,DSCNN,,75.05,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.3.0,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9012,STMicroelectronics,,STM32L4R5ZIT6U,DSCNN,DSCNN,,3371.738,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.3.0,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9012,STMicroelectronics,,STM32L4R5ZIT6U,FC AutoEncoder,FC AutoEncoder,,7.57,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.3.0,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9012,STMicroelectronics,,STM32L4R5ZIT6U,FC AutoEncoder,FC AutoEncoder,,322.977,1.0,Arm�� Cortex��-M4,1.0,,1.0,X-CUBE-AI v7.3.0,,120MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9013,STMicroelectronics,,STM32U575ZIT6Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,133.41,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.3.0,,160MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9013,STMicroelectronics,,STM32U575ZIT6Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,3364.456,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.3.0,,160MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9013,STMicroelectronics,,STM32U575ZIT6Q,ResNet-V1,ResNet-V1,,139.7,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.3.0,,160MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9013,STMicroelectronics,,STM32U575ZIT6Q,ResNet-V1,ResNet-V1,,3641.998,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.3.0,,160MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9013,STMicroelectronics,,STM32U575ZIT6Q,DSCNN,DSCNN,,44.23,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.3.0,,160MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9013,STMicroelectronics,,STM32U575ZIT6Q,DSCNN,DSCNN,,1138.534,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.3.0,,160MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9013,STMicroelectronics,,STM32U575ZIT6Q,FC AutoEncoder,FC AutoEncoder,,4.84,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.3.0,,160MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9013,STMicroelectronics,,STM32U575ZIT6Q,FC AutoEncoder,FC AutoEncoder,,119.113,1.0,Arm�� Cortex��-M33,1.0,,1.0,X-CUBE-AI v7.3.0,,160MHz; 1.8Vbat,v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9014,Syntiant,,NDP120,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,4.1,1.0,M0 + HiFi,1.0,Syntiant Core 2 (98MHz; 1.1V),1.0,Syntiant TDK,,Syntiant Core 2 (98MHz; 1.1Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9014,Syntiant,,NDP120,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,97.16,1.0,M0 + HiFi,1.0,Syntiant Core 2 (98MHz; 1.1V),1.0,Syntiant TDK,,Syntiant Core 2 (98MHz; 1.1Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9014,Syntiant,,NDP120,ResNet-V1,ResNet-V1,,5.12,1.0,M0 + HiFi,1.0,Syntiant Core 2 (98MHz; 1.1V),1.0,Syntiant TDK,,Syntiant Core 2 (98MHz; 1.1Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9014,Syntiant,,NDP120,ResNet-V1,ResNet-V1,,139.37,1.0,M0 + HiFi,1.0,Syntiant Core 2 (98MHz; 1.1V),1.0,Syntiant TDK,,Syntiant Core 2 (98MHz; 1.1Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9014,Syntiant,,NDP120,DSCNN,DSCNN,,1.48,1.0,M0 + HiFi,1.0,Syntiant Core 2 (98MHz; 1.1V),1.0,Syntiant TDK,,Syntiant Core 2 (98MHz; 1.1Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9014,Syntiant,,NDP120,DSCNN,DSCNN,,43.8,1.0,M0 + HiFi,1.0,Syntiant Core 2 (98MHz; 1.1V),1.0,Syntiant TDK,,Syntiant Core 2 (98MHz; 1.1Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9015,Syntiant,,NDP120,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,12.7,1.0,M0 + HiFi,1.0,Syntiant Core 2 (30MHz; 0.9V),1.0,Syntiant TDK,,Syntiant Core 2 (30MHz; 0.9Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9015,Syntiant,,NDP120,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,71.71,1.0,M0 + HiFi,1.0,Syntiant Core 2 (30MHz; 0.9V),1.0,Syntiant TDK,,Syntiant Core 2 (30MHz; 0.9Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9015,Syntiant,,NDP120,ResNet-V1,ResNet-V1,,15.97,1.0,M0 + HiFi,1.0,Syntiant Core 2 (30MHz; 0.9V),1.0,Syntiant TDK,,Syntiant Core 2 (30MHz; 0.9Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9015,Syntiant,,NDP120,ResNet-V1,ResNet-V1,,101.83,1.0,M0 + HiFi,1.0,Syntiant Core 2 (30MHz; 0.9V),1.0,Syntiant TDK,,Syntiant Core 2 (30MHz; 0.9Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.0-9015,Syntiant,,NDP120,DSCNN,DSCNN,,4.37,1.0,M0 + HiFi,1.0,Syntiant Core 2 (30MHz; 0.9V),1.0,Syntiant TDK,,Syntiant Core 2 (30MHz; 0.9Vcore),v1.0,11/7/2022,Tiny v1.0,Latency in ms,1.0
+1.0-9015,Syntiant,,NDP120,DSCNN,DSCNN,,31.54,1.0,M0 + HiFi,1.0,Syntiant Core 2 (30MHz; 0.9V),1.0,Syntiant TDK,,Syntiant Core 2 (30MHz; 0.9Vcore),v1.0,11/7/2022,Tiny v1.0,Energy in uJ,1.0
+1.1-0009,cTuning,,NUCLEO-L4R5ZI-MicroTVM-CMSIS-NN,,,,closed/cTuning/NUCLEO-L4R5ZI,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0009,cTuning,,NUCLEO-L4R5ZI-MicroTVM-CMSIS-NN,,,,availablecTuning,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0009,cTuning,,NUCLEO-L4R5ZI-MicroTVM-CMSIS-NN,ResNet-V1,ResNet-V1,,389.5597974,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0009,cTuning,,NUCLEO-L4R5ZI-MicroTVM-CMSIS-NN,DSCNN,DSCNN,,99.84025559,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0009,cTuning,,NUCLEO-L4R5ZI-MicroTVM-Native,,,,,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0009,cTuning,,NUCLEO-L4R5ZI-MicroTVM-Native,,,,,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0009,cTuning,,NUCLEO-L4R5ZI-MicroTVM-Native,ResNet-V1,ResNet-V1,,389.1,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0009,cTuning,,NUCLEO-L4R5ZI-MicroTVM-Native,DSCNN,DSCNN,,144.0,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0010,fpgaconvnet,,cora-z7,,,,closed/fpgaconvnet/Cora-Z7,1.0,Arm�� Cortex A9 Based,1.0,XC7Z007S,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0010,fpgaconvnet,,cora-z7,,,,availablefpgaconvnet,1.0,Arm�� Cortex A9 Based,1.0,XC7Z007S,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0010,fpgaconvnet,,cora-z7,DSCNN,DSCNN,,4.211217842,1.0,Arm�� Cortex A9 Based,1.0,XC7Z007S,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0011,fpgaconvnet,,zc706,,,,closed/fpgaconvnet/ZC706 Development Board,1.0,Arm�� Cortex A9 Based,1.0,XC7Z045,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0011,fpgaconvnet,,zc706,,,,availablefpgaconvnet,1.0,Arm�� Cortex A9 Based,1.0,XC7Z045,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0011,fpgaconvnet,,zc706,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,0.7203080037,1.0,Arm�� Cortex A9 Based,1.0,XC7Z045,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0011,fpgaconvnet,,zc706,ResNet-V1,ResNet-V1,,0.1472846022,1.0,Arm�� Cortex A9 Based,1.0,XC7Z045,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0012,fpgaconvnet,,zedboard,,,,closed/fpgaconvnet/ZedBoard,1.0,Arm�� Cortex A9 Based,1.0,Xilinx Z-7020; XC7Z020,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0012,fpgaconvnet,,zedboard,,,,availablefpgaconvnet,1.0,Arm�� Cortex A9 Based,1.0,Xilinx Z-7020; XC7Z020,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0012,fpgaconvnet,,zedboard,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,9.486585967,1.0,Arm�� Cortex A9 Based,1.0,Xilinx Z-7020; XC7Z020,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0012,fpgaconvnet,,zedboard,ResNet-V1,ResNet-V1,,0.4112797587,1.0,Arm�� Cortex A9 Based,1.0,Xilinx Z-7020; XC7Z020,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0012,fpgaconvnet,,zedboard,DSCNN,DSCNN,,0.3238460475,1.0,Arm�� Cortex A9 Based,1.0,Xilinx Z-7020; XC7Z020,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0013,fpgaconvnet,,zybo,,,,closed/fpgaconvnet/ZyBo,1.0,Arm�� Cortex A9 Based,1.0,XC7Z010,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0013,fpgaconvnet,,zybo,,,,availablefpgaconvnet,1.0,Arm�� Cortex A9 Based,1.0,XC7Z010,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0013,fpgaconvnet,,zybo,ResNet-V1,ResNet-V1,,3.149586459,1.0,Arm�� Cortex A9 Based,1.0,XC7Z010,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0013,fpgaconvnet,,zybo,DSCNN,DSCNN,,2.151046484,1.0,Arm�� Cortex A9 Based,1.0,XC7Z010,1.0,fpgaConvNet (Model + Optimiser),,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0025,kai-jiang,,ZCU106,,,,closed/kai-jiang/ZCU106,1.0,RISC-V,1.0,ANPU,1.0,,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0025,kai-jiang,,ZCU106,,,,rdikai-jiang,1.0,RISC-V,1.0,ANPU,1.0,,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0025,kai-jiang,,ZCU106,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,0.37,1.0,RISC-V,1.0,ANPU,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-7.3,,,,closed/Krai/NUCLEO-H7A3ZI-Q,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-7.3,,,,availableKrai,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-7.3,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,50.40830729,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-7.3,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,7810.703,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-7.3,ResNet-V1,ResNet-V1,,53.83869926,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-7.3,ResNet-V1,ResNet-V1,,8471.102,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-7.3,DSCNN,DSCNN,,16.72576437,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-7.3,DSCNN,DSCNN,,2367.474,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-7.3,FC AutoEncoder,FC AutoEncoder,,1.828153565,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-8.0,,,,,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-8.0,,,,,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-8.0,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,50.3,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-8.0,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,"6,928.3",1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-8.0,ResNet-V1,ResNet-V1,,54.9,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-8.0,ResNet-V1,ResNet-V1,,"7,615.4",1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-8.0,DSCNN,DSCNN,,16.4,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-8.0,DSCNN,DSCNN,,"2,362.1",1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-8.0,FC AutoEncoder,FC AutoEncoder,,1.8,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0001,Krai,,NUCLEO-H7A3ZI-Q-X-CUBE-AI-8.0,FC AutoEncoder,FC AutoEncoder,,235.8,1.0,32-bit Arm�� Cortex��-M7,1.0,,1.0,X-CUBE-AI v7.3.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-MICROTVM-CMSIS-NN,,,,closed/Krai/NUCLEO-L4R5ZI,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-MICROTVM-CMSIS-NN,,,,availableKrai,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-MICROTVM-CMSIS-NN,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,300.8423586,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-MICROTVM-CMSIS-NN,ResNet-V1,ResNet-V1,,389.5597974,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-MICROTVM-CMSIS-NN,DSCNN,DSCNN,,99.81036032,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-MICROTVM-CMSIS-NN,FC AutoEncoder,FC AutoEncoder,,8.604963343,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-MICROTVM-NATIVE,,,,,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-MICROTVM-NATIVE,,,,,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-MICROTVM-NATIVE,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,338.9,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-MICROTVM-NATIVE,ResNet-V1,ResNet-V1,,389.1,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-MICROTVM-NATIVE,DSCNN,DSCNN,,144.0,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-MICROTVM-NATIVE,FC AutoEncoder,FC AutoEncoder,,11.7,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-7.3,,,,,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-7.3,,,,,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-7.3,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,224.9,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-7.3,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,"16,536.3",1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-7.3,ResNet-V1,ResNet-V1,,226.9,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-7.3,ResNet-V1,ResNet-V1,,"17,755.4",1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-7.3,DSCNN,DSCNN,,74.7,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-7.3,DSCNN,DSCNN,,"5,627.5",1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-7.3,FC AutoEncoder,FC AutoEncoder,,7.6,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-7.3,FC AutoEncoder,FC AutoEncoder,,529.3,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-8.0,,,,,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-8.0,,,,,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-8.0,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,221.1,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-8.0,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,"16,573.1",1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-8.0,ResNet-V1,ResNet-V1,,222.0,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-8.0,ResNet-V1,ResNet-V1,,"17,315.1",1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-8.0,DSCNN,DSCNN,,72.7,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-8.0,DSCNN,DSCNN,,"5,481.6",1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-8.0,FC AutoEncoder,FC AutoEncoder,,7.6,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0002,Krai,,NUCLEO-L4R5ZI-X-CUBE-AI-8.0,FC AutoEncoder,FC AutoEncoder,,528.9,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0003,Krai,,NRF5340-DK-MICROTVM-CMSIS-NN,,,,closed/Krai/nRF5340 DK,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0003,Krai,,NRF5340-DK-MICROTVM-CMSIS-NN,,,,availableKrai,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0003,Krai,,NRF5340-DK-MICROTVM-CMSIS-NN,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,233.3177788,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0003,Krai,,NRF5340-DK-MICROTVM-CMSIS-NN,ResNet-V1,ResNet-V1,,317.8639542,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0003,Krai,,NRF5340-DK-MICROTVM-CMSIS-NN,DSCNN,DSCNN,,76.48768548,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0003,Krai,,NRF5340-DK-MICROTVM-CMSIS-NN,FC AutoEncoder,FC AutoEncoder,,6.288517168,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,microTVM,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0004,Nuvoton,,NUMAKER-M467HJ-zephyr,,,,closed/Nuvoton/NUMAKER-M467HJ,1.0,Arm�� Cortex��-M4F,1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0004,Nuvoton,,NUMAKER-M467HJ-zephyr,,,,availableNuvoton,1.0,Arm�� Cortex��-M4F,1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0004,Nuvoton,,NUMAKER-M467HJ-zephyr,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,98.72642907,1.0,Arm�� Cortex��-M4F,1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0004,Nuvoton,,NUMAKER-M467HJ-zephyr,ResNet-V1,ResNet-V1,,171.4383679,1.0,Arm�� Cortex��-M4F,1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0004,Nuvoton,,NUMAKER-M467HJ-zephyr,DSCNN,DSCNN,,46.18510992,1.0,Arm�� Cortex��-M4F,1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0004,Nuvoton,,NUMAKER-M467HJ-zephyr,FC AutoEncoder,FC AutoEncoder,,4.886749579,1.0,Arm�� Cortex��-M4F,1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0014,Plumerai,,CY8CPROTO-062-4343W,,,,closed/plumerai/CY8CPROTO-062-4343W,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0014,Plumerai,,CY8CPROTO-062-4343W,,,,availableplumerai,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0014,Plumerai,,CY8CPROTO-062-4343W,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,108.2954299,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0014,Plumerai,,CY8CPROTO-062-4343W,ResNet-V1,ResNet-V1,,188.9644747,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0014,Plumerai,,CY8CPROTO-062-4343W,DSCNN,DSCNN,,54.062821,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0014,Plumerai,,CY8CPROTO-062-4343W,FC AutoEncoder,FC AutoEncoder,,4.455216167,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0015,Plumerai,,DISCO-F746NG,,,,closed/plumerai/DISCO-F746NG,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0015,Plumerai,,DISCO-F746NG,,,,availableplumerai,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0015,Plumerai,,DISCO-F746NG,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,34.07967829,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0015,Plumerai,,DISCO-F746NG,ResNet-V1,ResNet-V1,,62.87726358,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0015,Plumerai,,DISCO-F746NG,DSCNN,DSCNN,,17.74906374,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0015,Plumerai,,DISCO-F746NG,FC AutoEncoder,FC AutoEncoder,,1.708805818,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0016,Plumerai,,NUCLEO-L4R5ZI,,,,closed/plumerai/NUCLEO-L4R5ZI,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0016,Plumerai,,NUCLEO-L4R5ZI,,,,availableplumerai,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0016,Plumerai,,NUCLEO-L4R5ZI,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,98.75567845,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0016,Plumerai,,NUCLEO-L4R5ZI,ResNet-V1,ResNet-V1,,167.7570877,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0016,Plumerai,,NUCLEO-L4R5ZI,DSCNN,DSCNN,,47.78059152,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0016,Plumerai,,NUCLEO-L4R5ZI,FC AutoEncoder,FC AutoEncoder,,4.051634024,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0017,Plumerai,,NUCLEO-H7A3ZI-Q,,,,closed/plumerai/NUCLEO-H7A3ZI-Q,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0017,Plumerai,,NUCLEO-H7A3ZI-Q,,,,availableplumerai,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0017,Plumerai,,NUCLEO-H7A3ZI-Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,26.81684098,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0017,Plumerai,,NUCLEO-H7A3ZI-Q,ResNet-V1,ResNet-V1,,50.92686902,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0017,Plumerai,,NUCLEO-H7A3ZI-Q,DSCNN,DSCNN,,13.86174298,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0017,Plumerai,,NUCLEO-H7A3ZI-Q,FC AutoEncoder,FC AutoEncoder,,1.347707079,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0018,Plumerai,,NUCLEO-U575ZI-Q,,,,closed/plumerai/NUCLEO-U575ZI-Q,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0018,Plumerai,,NUCLEO-U575ZI-Q,,,,availableplumerai,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0018,Plumerai,,NUCLEO-U575ZI-Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,59.49193884,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0018,Plumerai,,NUCLEO-U575ZI-Q,ResNet-V1,ResNet-V1,,104.2861612,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0018,Plumerai,,NUCLEO-U575ZI-Q,DSCNN,DSCNN,,30.04266058,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0018,Plumerai,,NUCLEO-U575ZI-Q,FC AutoEncoder,FC AutoEncoder,,3.671921186,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,Plumerai Inference Engine 2023.05,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0020,Robert Bosch GmbH,,DISCO-F746NG,,,,closed/bosch/DISCO-F746NG,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0020,Robert Bosch GmbH,,DISCO-F746NG,,,,previewbosch,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0020,Robert Bosch GmbH,,DISCO-F746NG,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,57.18,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0020,Robert Bosch GmbH,,DISCO-F746NG,ResNet-V1,ResNet-V1,,61.56877232,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0020,Robert Bosch GmbH,,DISCO-F746NG,DSCNN,DSCNN,,18.41858066,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0020,Robert Bosch GmbH,,DISCO-F746NG,FC AutoEncoder,FC AutoEncoder,,1.702605838,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0021,Robert Bosch GmbH,,NUCLEO-G0B1RE,,,,closed/bosch/NUCLEO-G0B1RE,1.0,32-bit Arm�� Cortex��-M0+,1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0021,Robert Bosch GmbH,,NUCLEO-G0B1RE,,,,previewbosch,1.0,32-bit Arm�� Cortex��-M0+,1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0021,Robert Bosch GmbH,,NUCLEO-G0B1RE,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,1869.16,1.0,32-bit Arm�� Cortex��-M0+,1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0021,Robert Bosch GmbH,,NUCLEO-G0B1RE,ResNet-V1,ResNet-V1,,1669.449082,1.0,32-bit Arm�� Cortex��-M0+,1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0021,Robert Bosch GmbH,,NUCLEO-G0B1RE,DSCNN,DSCNN,,679.3478261,1.0,32-bit Arm�� Cortex��-M0+,1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0021,Robert Bosch GmbH,,NUCLEO-G0B1RE,FC AutoEncoder,FC AutoEncoder,,46.54626699,1.0,32-bit Arm�� Cortex��-M0+,1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0022,Robert Bosch GmbH,,NUCLEO-H7A3ZI,,,,closed/bosch/NUCLEO-H7A3ZI,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0022,Robert Bosch GmbH,,NUCLEO-H7A3ZI,,,,previewbosch,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0022,Robert Bosch GmbH,,NUCLEO-H7A3ZI,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,43.66,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0022,Robert Bosch GmbH,,NUCLEO-H7A3ZI,ResNet-V1,ResNet-V1,,46.83182691,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0022,Robert Bosch GmbH,,NUCLEO-H7A3ZI,DSCNN,DSCNN,,14.71540408,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0022,Robert Bosch GmbH,,NUCLEO-H7A3ZI,FC AutoEncoder,FC AutoEncoder,,1.356334966,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0023,Robert Bosch GmbH,,NUCLEO-L4R5ZI,,,,closed/bosch/NUCLEO-L4R5ZI,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0023,Robert Bosch GmbH,,NUCLEO-L4R5ZI,,,,previewbosch,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0023,Robert Bosch GmbH,,NUCLEO-L4R5ZI,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,180.73,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0023,Robert Bosch GmbH,,NUCLEO-L4R5ZI,ResNet-V1,ResNet-V1,,179.018976,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0023,Robert Bosch GmbH,,NUCLEO-L4R5ZI,DSCNN,DSCNN,,62.68020559,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0023,Robert Bosch GmbH,,NUCLEO-L4R5ZI,FC AutoEncoder,FC AutoEncoder,,5.659341592,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0024,Robert Bosch GmbH,,NUCLEO-U575ZI,,,,closed/bosch/NUCLEO-U575ZI-Q,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0024,Robert Bosch GmbH,,NUCLEO-U575ZI,,,,previewbosch,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0024,Robert Bosch GmbH,,NUCLEO-U575ZI,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,114.74,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0024,Robert Bosch GmbH,,NUCLEO-U575ZI,ResNet-V1,ResNet-V1,,117.7440245,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0024,Robert Bosch GmbH,,NUCLEO-U575ZI,DSCNN,DSCNN,,39.73615195,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0024,Robert Bosch GmbH,,NUCLEO-U575ZI,FC AutoEncoder,FC AutoEncoder,,3.802382573,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,Bosch Hardware-Aware Lowering Engine (HALE) version 1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-mbed-os,,,,closed/Skymizer/NUCLEO-L4R5ZI,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-mbed-os,,,,availableSkymizer,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-mbed-os,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,172.1763085,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-mbed-os,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,7477.617,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-mbed-os,ResNet-V1,ResNet-V1,,298.6857826,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-mbed-os,ResNet-V1,ResNet-V1,,12684.27,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-mbed-os,DSCNN,DSCNN,,82.00082001,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-mbed-os,DSCNN,DSCNN,,3454.848,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-mbed-os,FC AutoEncoder,FC AutoEncoder,,8.072653885,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-mbed-os,FC AutoEncoder,FC AutoEncoder,,334.536,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-zephyr,,,,,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-zephyr,,,,,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-zephyr,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,197.8,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-zephyr,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,"10,412.8",1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-zephyr,ResNet-V1,ResNet-V1,,296.6,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-zephyr,ResNet-V1,ResNet-V1,,"14,927.3",1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-zephyr,DSCNN,DSCNN,,93.6,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-zephyr,DSCNN,DSCNN,,"4,747.9",1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-zephyr,FC AutoEncoder,FC AutoEncoder,,8.0,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0008,Skymizer,,NUCLEO-L4R5ZI-zephyr,FC AutoEncoder,FC AutoEncoder,,409.7,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,ONNC,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0005,STMicroelectronics,,NUCLEO-H7A3ZI-Q,,,,closed/STMicrolectronics/NUCLEO-H7A3ZI-Q,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0005,STMicroelectronics,,NUCLEO-H7A3ZI-Q,,,,availableSTMicrolectronics,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0005,STMicroelectronics,,NUCLEO-H7A3ZI-Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,29.62875174,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0005,STMicroelectronics,,NUCLEO-H7A3ZI-Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,3699.351,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0005,STMicroelectronics,,NUCLEO-H7A3ZI-Q,ResNet-V1,ResNet-V1,,51.94805195,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0005,STMicroelectronics,,NUCLEO-H7A3ZI-Q,ResNet-V1,ResNet-V1,,6310.692,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0005,STMicroelectronics,,NUCLEO-H7A3ZI-Q,DSCNN,DSCNN,,15.35320037,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0005,STMicroelectronics,,NUCLEO-H7A3ZI-Q,DSCNN,DSCNN,,1869.384,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0005,STMicroelectronics,,NUCLEO-H7A3ZI-Q,FC AutoEncoder,FC AutoEncoder,,1.818271079,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0005,STMicroelectronics,,NUCLEO-H7A3ZI-Q,FC AutoEncoder,FC AutoEncoder,,221.217,1.0,32-bit Arm�� Cortex��-M7 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0006,STMicroelectronics,,NUCLEO-L4R5ZI,,,,closed/STMicrolectronics/NUCLEO-L4R5ZI,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0006,STMicroelectronics,,NUCLEO-L4R5ZI,,,,availableSTMicrolectronics,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0006,STMicroelectronics,,NUCLEO-L4R5ZI,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,118.694362,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0006,STMicroelectronics,,NUCLEO-L4R5ZI,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,5618.279,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0006,STMicroelectronics,,NUCLEO-L4R5ZI,ResNet-V1,ResNet-V1,,213.9952921,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0006,STMicroelectronics,,NUCLEO-L4R5ZI,ResNet-V1,ResNet-V1,,7019.085,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0006,STMicroelectronics,,NUCLEO-L4R5ZI,DSCNN,DSCNN,,62.87331028,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0006,STMicroelectronics,,NUCLEO-L4R5ZI,DSCNN,DSCNN,,2833.138,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0006,STMicroelectronics,,NUCLEO-L4R5ZI,FC AutoEncoder,FC AutoEncoder,,6.857346618,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0006,STMicroelectronics,,NUCLEO-L4R5ZI,FC AutoEncoder,FC AutoEncoder,,293.912,1.0,32-bit Arm�� Cortex��-M4 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0007,STMicroelectronics,,NUCLEO-U575ZI-Q,,,,closed/STMicrolectronics/NUCLEO-U575ZI-Q,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0007,STMicroelectronics,,NUCLEO-U575ZI-Q,,,,availableSTMicrolectronics,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0007,STMicroelectronics,,NUCLEO-U575ZI-Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,71.5614713,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0007,STMicroelectronics,,NUCLEO-U575ZI-Q,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,1920.636,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0007,STMicroelectronics,,NUCLEO-U575ZI-Q,ResNet-V1,ResNet-V1,,128.2051282,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0007,STMicroelectronics,,NUCLEO-U575ZI-Q,ResNet-V1,ResNet-V1,,3383.822,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0007,STMicroelectronics,,NUCLEO-U575ZI-Q,DSCNN,DSCNN,,38.58024691,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0007,STMicroelectronics,,NUCLEO-U575ZI-Q,DSCNN,DSCNN,,1004.221,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0007,STMicroelectronics,,NUCLEO-U575ZI-Q,FC AutoEncoder,FC AutoEncoder,,4.849872206,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0007,STMicroelectronics,,NUCLEO-U575ZI-Q,FC AutoEncoder,FC AutoEncoder,,121.446,1.0,32-bit Arm�� Cortex��-M33 (DSP + FPU),1.0,,1.0,X-CUBE-AI v8.1.0,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0019,Syntiant,,syntiant-9120-0v9-30mhz,,,,closed/syntiant/NDP9120,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0019,Syntiant,,syntiant-9120-0v9-30mhz,,,,availablesyntiant,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0019,Syntiant,,syntiant-9120-0v9-30mhz,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,12.72264631,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0019,Syntiant,,syntiant-9120-0v9-30mhz,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,71.711,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0019,Syntiant,,syntiant-9120-0v9-30mhz,ResNet-V1,ResNet-V1,,15.97495128,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0019,Syntiant,,syntiant-9120-0v9-30mhz,ResNet-V1,ResNet-V1,,101.833,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0019,Syntiant,,syntiant-9120-0v9-30mhz,DSCNN,DSCNN,,4.367155497,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0019,Syntiant,,syntiant-9120-0v9-30mhz,DSCNN,DSCNN,,31.537,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0019,Syntiant,,syntiant_9120_1v1_98mhz,,,,,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0019,Syntiant,,syntiant_9120_1v1_98mhz,,,,,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,,1.0
+1.1-0019,Syntiant,,syntiant_9120_1v1_98mhz,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,4.1,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0019,Syntiant,,syntiant_9120_1v1_98mhz,MobileNetV1 (0.25x),MobileNetV1 (0.25x),,97.164,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0019,Syntiant,,syntiant_9120_1v1_98mhz,ResNet-V1,ResNet-V1,,5.1,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0019,Syntiant,,syntiant_9120_1v1_98mhz,ResNet-V1,ResNet-V1,,139.367,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.1-0019,Syntiant,,syntiant_9120_1v1_98mhz,DSCNN,DSCNN,,1.5,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,Latency in ms,1.0
+1.1-0019,Syntiant,,syntiant_9120_1v1_98mhz,DSCNN,DSCNN,,43.802,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,Syntiant TDK+SDK,,,v1.1,6/19/2023,Tiny v1.1,Energy in uJ,1.0
+1.2-0001,Qualcomm,,Snapdragon_8_Gen_3_Mobile_Platform_MTP,ad,FC AutoEncoder,,0.07,1.0,Qualcomm Kryo CPU,1.0,Qualcomm Sensing Hub,1.0,,Android,Low Power AI subsystem with dedicated AI processor,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0001,Qualcomm,,Snapdragon_8_Gen_3_Mobile_Platform_MTP,ic,ResNet-V1,,0.15,1.0,Qualcomm Kryo CPU,1.0,Qualcomm Sensing Hub,1.0,,Android,Low Power AI subsystem with dedicated AI processor,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0001,Qualcomm,,Snapdragon_8_Gen_3_Mobile_Platform_MTP,kws,DSCNN,,0.09,1.0,Qualcomm Kryo CPU,1.0,Qualcomm Sensing Hub,1.0,,Android,Low Power AI subsystem with dedicated AI processor,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0001,Qualcomm,,Snapdragon_8_Gen_3_Mobile_Platform_MTP,vww,MobileNetV1 (0.25x),,0.19,1.0,Qualcomm Kryo CPU,1.0,Qualcomm Sensing Hub,1.0,,Android,Low Power AI subsystem with dedicated AI processor,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0002,Renesas,,EK-RA8D1,ad,FC AutoEncoder,,0.53,1.0,32-bit Arm® Cortex®-M85,1.0,,1.0,,,Operating at 3.3V,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0002,Renesas,,EK-RA8D1,ic,ResNet-V1,,8.48,1.0,32-bit Arm® Cortex®-M85,1.0,,1.0,,,Operating at 3.3V,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0002,Renesas,,EK-RA8D1,kws,DSCNN,,3.46,1.0,32-bit Arm® Cortex®-M85,1.0,,1.0,,,Operating at 3.3V,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0002,Renesas,,EK-RA8D1,vww,MobileNetV1 (0.25x),,13.39,1.0,32-bit Arm® Cortex®-M85,1.0,,1.0,,,Operating at 3.3V,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0003,STMicroelectronics,,NUCLEO_H7A3ZI_Q,ad,FC AutoEncoder,,1.23,1.0,32-Bit ARM Cortex-M7,1.0,,1.0,,bare metal,Operating at 3V with SMPS,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0003,STMicroelectronics,,NUCLEO_H7A3ZI_Q,ad,FC AutoEncoder,,165.73,1.0,32-Bit ARM Cortex-M7,1.0,,1.0,,bare metal,Operating at 3V with SMPS,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0003,STMicroelectronics,,NUCLEO_H7A3ZI_Q,ic,ResNet-V1,,40.84,1.0,32-Bit ARM Cortex-M7,1.0,,1.0,,bare metal,Operating at 3V with SMPS,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0003,STMicroelectronics,,NUCLEO_H7A3ZI_Q,ic,ResNet-V1,,"5,090.28",1.0,32-Bit ARM Cortex-M7,1.0,,1.0,,bare metal,Operating at 3V with SMPS,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0003,STMicroelectronics,,NUCLEO_H7A3ZI_Q,kws,DSCNN,,11.32,1.0,32-Bit ARM Cortex-M7,1.0,,1.0,,bare metal,Operating at 3V with SMPS,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0003,STMicroelectronics,,NUCLEO_H7A3ZI_Q,kws,DSCNN,,"1,375.60",1.0,32-Bit ARM Cortex-M7,1.0,,1.0,,bare metal,Operating at 3V with SMPS,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0003,STMicroelectronics,,NUCLEO_H7A3ZI_Q,vww,MobileNetV1 (0.25x),,23.80,1.0,32-Bit ARM Cortex-M7,1.0,,1.0,,bare metal,Operating at 3V with SMPS,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0003,STMicroelectronics,,NUCLEO_H7A3ZI_Q,vww,MobileNetV1 (0.25x),,"2,965.46",1.0,32-Bit ARM Cortex-M7,1.0,,1.0,,bare metal,Operating at 3V with SMPS,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0004,STMicroelectronics,,NUCLEO_L4R5ZI,ad,FC AutoEncoder,,5.26,1.0,32-bit Arm Cortex-M4 (DSP + FPU),1.0,,1.0,,bare metal,Operating at 1.8V / Single Bank Mode Activated,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0004,STMicroelectronics,,NUCLEO_L4R5ZI,ad,FC AutoEncoder,,203.37,1.0,32-bit Arm Cortex-M4 (DSP + FPU),1.0,,1.0,,bare metal,Operating at 1.8V / Single Bank Mode Activated,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0004,STMicroelectronics,,NUCLEO_L4R5ZI,ic,ResNet-V1,,165.13,1.0,32-bit Arm Cortex-M4 (DSP + FPU),1.0,,1.0,,bare metal,Operating at 1.8V / Single Bank Mode Activated,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0004,STMicroelectronics,,NUCLEO_L4R5ZI,ic,ResNet-V1,,"6,919.38",1.0,32-bit Arm Cortex-M4 (DSP + FPU),1.0,,1.0,,bare metal,Operating at 1.8V / Single Bank Mode Activated,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0004,STMicroelectronics,,NUCLEO_L4R5ZI,kws,DSCNN,,43.19,1.0,32-bit Arm Cortex-M4 (DSP + FPU),1.0,,1.0,,bare metal,Operating at 1.8V / Single Bank Mode Activated,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0004,STMicroelectronics,,NUCLEO_L4R5ZI,kws,DSCNN,,"1,820.45",1.0,32-bit Arm Cortex-M4 (DSP + FPU),1.0,,1.0,,bare metal,Operating at 1.8V / Single Bank Mode Activated,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0004,STMicroelectronics,,NUCLEO_L4R5ZI,vww,MobileNetV1 (0.25x),,88.93,1.0,32-bit Arm Cortex-M4 (DSP + FPU),1.0,,1.0,,bare metal,Operating at 1.8V / Single Bank Mode Activated,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0004,STMicroelectronics,,NUCLEO_L4R5ZI,vww,MobileNetV1 (0.25x),,"3,894.57",1.0,32-bit Arm Cortex-M4 (DSP + FPU),1.0,,1.0,,bare metal,Operating at 1.8V / Single Bank Mode Activated,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0005,STMicroelectronics,,NUCLEO_U575ZI_Q,ad,FC AutoEncoder,,3.43,1.0,Arm Cortex-M33 32-bit RISC core,1.0,,1.0,,bare metal,Operating at 1.8V / SMPS,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0005,STMicroelectronics,,NUCLEO_U575ZI_Q,ad,FC AutoEncoder,,81.88,1.0,Arm Cortex-M33 32-bit RISC core,1.0,,1.0,,bare metal,Operating at 1.8V / SMPS,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0005,STMicroelectronics,,NUCLEO_U575ZI_Q,ic,ResNet-V1,,111.07,1.0,Arm Cortex-M33 32-bit RISC core,1.0,,1.0,,bare metal,Operating at 1.8V / SMPS,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0005,STMicroelectronics,,NUCLEO_U575ZI_Q,ic,ResNet-V1,,"2,578.97",1.0,Arm Cortex-M33 32-bit RISC core,1.0,,1.0,,bare metal,Operating at 1.8V / SMPS,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0005,STMicroelectronics,,NUCLEO_U575ZI_Q,kws,DSCNN,,29.06,1.0,Arm Cortex-M33 32-bit RISC core,1.0,,1.0,,bare metal,Operating at 1.8V / SMPS,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0005,STMicroelectronics,,NUCLEO_U575ZI_Q,kws,DSCNN,,656.16,1.0,Arm Cortex-M33 32-bit RISC core,1.0,,1.0,,bare metal,Operating at 1.8V / SMPS,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0005,STMicroelectronics,,NUCLEO_U575ZI_Q,vww,MobileNetV1 (0.25x),,59.28,1.0,Arm Cortex-M33 32-bit RISC core,1.0,,1.0,,bare metal,Operating at 1.8V / SMPS,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0005,STMicroelectronics,,NUCLEO_U575ZI_Q,vww,MobileNetV1 (0.25x),,"1,354.69",1.0,Arm Cortex-M33 32-bit RISC core,1.0,,1.0,,bare metal,Operating at 1.8V / SMPS,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0006,Skymizer,,TinkerV-linux-andes_nn,ad,FC AutoEncoder,,0.37,1.0,RISC-V AndesCore™ AX45MP Single core,1.0,,1.0,,{'Linux': {'OS version': ''}},,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0006,Skymizer,,TinkerV-linux-andes_nn,ic,ResNet-V1,,33.37,1.0,RISC-V AndesCore™ AX45MP Single core,1.0,,1.0,,{'Linux': {'OS version': ''}},,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0007,Robert Bosch GmbH,,CY8CPROTO_062_4343W_float,ad,FC AutoEncoder,,16.78,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,mbed-os bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0007,Robert Bosch GmbH,,CY8CPROTO_062_4343W_float,ic,ResNet-V1,,479.85,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,mbed-os bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0007,Robert Bosch GmbH,,CY8CPROTO_062_4343W_float,vww,MobileNetV1 (0.25x),,360.62,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,mbed-os bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0008,Robert Bosch GmbH,,CY8CPROTO_062_4343W_int8,ad,FC AutoEncoder,,5.97,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,mbed-os bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0008,Robert Bosch GmbH,,CY8CPROTO_062_4343W_int8,ic,ResNet-V1,,162.21,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,mbed-os bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0008,Robert Bosch GmbH,,CY8CPROTO_062_4343W_int8,kws,DSCNN,,54.15,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,mbed-os bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0008,Robert Bosch GmbH,,CY8CPROTO_062_4343W_int8,vww,MobileNetV1 (0.25x),,154.68,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,mbed-os bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0009,Robert Bosch GmbH,,CY8CPROTO_062_4343W_int8_max_performance,ad,FC AutoEncoder,,4.93,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,mbed-os bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0010,Robert Bosch GmbH,,DISCO_F746NG_int8,ad,FC AutoEncoder,,1.71,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0010,Robert Bosch GmbH,,DISCO_F746NG_int8,ic,ResNet-V1,,62.55,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0010,Robert Bosch GmbH,,DISCO_F746NG_int8,kws,DSCNN,,18.96,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0010,Robert Bosch GmbH,,DISCO_F746NG_int8,vww,MobileNetV1 (0.25x),,57.25,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0011,Robert Bosch GmbH,,DISCO_F746NG_int8_max_performance,ad,FC AutoEncoder,,1.42,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0012,Robert Bosch GmbH,,NUCLEO_G0B1RE_int8,ad,FC AutoEncoder,,40.89,1.0,32-bit Arm® Cortex®-M0+,1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0012,Robert Bosch GmbH,,NUCLEO_G0B1RE_int8,ic,ResNet-V1,,"1,522.07",1.0,32-bit Arm® Cortex®-M0+,1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0012,Robert Bosch GmbH,,NUCLEO_G0B1RE_int8,kws,DSCNN,,474.61,1.0,32-bit Arm® Cortex®-M0+,1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0012,Robert Bosch GmbH,,NUCLEO_G0B1RE_int8,vww,MobileNetV1 (0.25x),,"1,414.43",1.0,32-bit Arm® Cortex®-M0+,1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0013,Robert Bosch GmbH,,NUCLEO_H7A3ZI_float,ad,FC AutoEncoder,,5.23,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0013,Robert Bosch GmbH,,NUCLEO_H7A3ZI_float,ic,ResNet-V1,,124.22,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0013,Robert Bosch GmbH,,NUCLEO_H7A3ZI_float,vww,MobileNetV1 (0.25x),,81.42,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0014,Robert Bosch GmbH,,NUCLEO_H7A3ZI_int8,ad,FC AutoEncoder,,1.36,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0014,Robert Bosch GmbH,,NUCLEO_H7A3ZI_int8,ic,ResNet-V1,,45.85,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0014,Robert Bosch GmbH,,NUCLEO_H7A3ZI_int8,kws,DSCNN,,14.69,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0014,Robert Bosch GmbH,,NUCLEO_H7A3ZI_int8,vww,MobileNetV1 (0.25x),,43.76,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0015,Robert Bosch GmbH,,NUCLEO_H7A3ZI_int8_max_performance,ad,FC AutoEncoder,,1.08,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0016,Robert Bosch GmbH,,NUCLEO_H7A3ZI_int8_min_ram,ic,ResNet-V1,,84.51,1.0,32-bit Arm® Cortex®-M7 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0017,Robert Bosch GmbH,,NUCLEO_L4R5ZI_int8,ad,FC AutoEncoder,,5.84,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0017,Robert Bosch GmbH,,NUCLEO_L4R5ZI_int8,ic,ResNet-V1,,180.54,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0017,Robert Bosch GmbH,,NUCLEO_L4R5ZI_int8,kws,DSCNN,,60.16,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0017,Robert Bosch GmbH,,NUCLEO_L4R5ZI_int8,vww,MobileNetV1 (0.25x),,180.51,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0018,Robert Bosch GmbH,,NUCLEO_L4R5ZI_int8_max_performance,ad,FC AutoEncoder,,4.73,1.0,32-bit Arm® Cortex®-M4 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0019,Robert Bosch GmbH,,NUCLEO_U575ZI_int8,ad,FC AutoEncoder,,3.80,1.0,32-bit Arm® Cortex®-M33 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0019,Robert Bosch GmbH,,NUCLEO_U575ZI_int8,ic,ResNet-V1,,120.54,1.0,32-bit Arm® Cortex®-M33 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0019,Robert Bosch GmbH,,NUCLEO_U575ZI_int8,kws,DSCNN,,38.58,1.0,32-bit Arm® Cortex®-M33 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0019,Robert Bosch GmbH,,NUCLEO_U575ZI_int8,vww,MobileNetV1 (0.25x),,119.83,1.0,32-bit Arm® Cortex®-M33 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0020,Robert Bosch GmbH,,NUCLEO_U575ZI_int8_max_performance,ad,FC AutoEncoder,,3.09,1.0,32-bit Arm® Cortex®-M33 (DSP + FPU),1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0021,Robert Bosch GmbH,,RENESAS_RH850_F1KMS4_float,ad,FC AutoEncoder,,6.18,1.0,32-bit RH850G3KH2.0,1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0021,Robert Bosch GmbH,,RENESAS_RH850_F1KMS4_float,ic,ResNet-V1,,222.47,1.0,32-bit RH850G3KH2.0,1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0022,Robert Bosch GmbH,,RENESAS_RH850_F1KMS4_int8,ad,FC AutoEncoder,,7.44,1.0,32-bit RH850G3KH2.0,1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0022,Robert Bosch GmbH,,RENESAS_RH850_F1KMS4_int8,ic,ResNet-V1,,232.88,1.0,32-bit RH850G3KH2.0,1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0022,Robert Bosch GmbH,,RENESAS_RH850_F1KMS4_int8,kws,DSCNN,,63.65,1.0,32-bit RH850G3KH2.0,1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0023,Robert Bosch GmbH,,RENESAS_RH850_F1KMS4_int8_max_performance,ad,FC AutoEncoder,,5.64,1.0,32-bit RH850G3KH2.0,1.0,,1.0,,bare metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0024,kai_jiang,,LC236R5E176_BOARD_V2.0,ic,ResNet-V1,,108.00,1.0,RISC-V,1.0,,1.0,,bare-metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0024,kai_jiang,,LC236R5E176_BOARD_V2.0,vww,MobileNetV1 (0.25x),,120.28,1.0,RISC-V,1.0,,1.0,,bare-metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0025,kai_jiang,,VCU128,vww,MobileNetV1 (0.25x),,0.29,1.0,RISC-V,1.0,ANPU,1.0,,bare-metal,,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0026,syntiant,,syntiant_9120_0v9_30mhz,ic,ResNet-V1,,15.97,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,,,Core VDD = 0.9V VDD_IO = 1.8V,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0026,syntiant,,syntiant_9120_0v9_30mhz,ic,ResNet-V1,,101.83,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,,,Core VDD = 0.9V VDD_IO = 1.8V,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0026,syntiant,,syntiant_9120_0v9_30mhz,kws,DSCNN,,4.37,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,,,Core VDD = 0.9V VDD_IO = 1.8V,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0026,syntiant,,syntiant_9120_0v9_30mhz,kws,DSCNN,,31.54,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,,,Core VDD = 0.9V VDD_IO = 1.8V,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0026,syntiant,,syntiant_9120_0v9_30mhz,vww,MobileNetV1 (0.25x),,12.72,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,,,Core VDD = 0.9V VDD_IO = 1.8V,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0026,syntiant,,syntiant_9120_0v9_30mhz,vww,MobileNetV1 (0.25x),,71.71,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,,,Core VDD = 0.9V VDD_IO = 1.8V,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0027,syntiant,,syntiant_9120_1v1_98mhz,ic,ResNet-V1,,5.12,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,,,Core VDD = 1.1V VDD_IO = 1.8V,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0027,syntiant,,syntiant_9120_1v1_98mhz,ic,ResNet-V1,,139.37,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,,,Core VDD = 1.1V VDD_IO = 1.8V,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0027,syntiant,,syntiant_9120_1v1_98mhz,kws,DSCNN,,1.48,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,,,Core VDD = 1.1V VDD_IO = 1.8V,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0027,syntiant,,syntiant_9120_1v1_98mhz,kws,DSCNN,,43.80,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,,,Core VDD = 1.1V VDD_IO = 1.8V,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
+1.2-0027,syntiant,,syntiant_9120_1v1_98mhz,vww,MobileNetV1 (0.25x),,4.10,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,,,Core VDD = 1.1V VDD_IO = 1.8V,v1.2,4/16/2024,Tiny v1.2,Latency in ms,1.0
+1.2-0027,syntiant,,syntiant_9120_1v1_98mhz,vww,MobileNetV1 (0.25x),,97.16,1.0,HiFi3 + M0,1.0,Syntiant Core 2,1.0,,,Core VDD = 1.1V VDD_IO = 1.8V,v1.2,4/16/2024,Tiny v1.2,Energy in uJ,1.0
