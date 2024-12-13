@@ -26,6 +26,8 @@ We encourage users to build on our analysis and draw deeper insights from the ML
 
 Refer to figures.md for a more detailed description of each figure in the paper and the specific MLPerf power data points used for each.
 
+Optionally, you can also run the code for each figure individually. Navigate to the '/code' directory, install the required software packages in 'requirements.txt', change the output figure directory at the end of the file to '../figures/figureX.png' and run it with Python 3.12.
+
 # Measuring Power
 
 [This repo](https://github.com/mlcommons/power-dev) contains the development branch of MLPerf™ power measurement code. Everything is Apache 2.0 code developed by MLCommons™. Access is available to anyone.
