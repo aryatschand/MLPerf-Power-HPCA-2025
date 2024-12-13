@@ -1,10 +1,20 @@
 # MLPerf Power
 
+[Arxiv paper](https://arxiv.org/abs/2410.12032)
+
 Rapid adoption of machine learning (ML) technologies has led to a surge in power consumption across diverse systems, from tiny IoT devices to massive datacenter clusters. Benchmarking the energy efficiency of these systems is crucial for optimization, but presents novel challenges due to the variety of hardware platforms, workload characteristics, and system-level interactions. This paper introduces MLPerf® Power, a comprehensive benchmarking methodology with capabilities to evaluate the energy efficiency of ML systems at power levels ranging from microwatts to megawatts. Developed by a consortium of industry professionals from more than 20 organizations, coupled with insights from academia, MLPerf Power establishes rules and best practices to ensure comparability across diverse architectures. We use representative workloads from the MLPerf benchmark suite to collect 1,841 reproducible measurements from 60 systems across the entire range of ML deployment scales. Our analysis reveals trade-offs between performance, complexity, and energy efficiency across this wide range of systems, providing actionable insights for designing optimized ML solutions from the smallest edge devices to the largest cloud infrastructures. This work emphasizes the importance of energy efficiency as a key metric in the evaluation and comparison of the ML system, laying the foundation for future research in this critical area. We discuss the implications for developing sustainable AI solutions and standardizing energy efficiency benchmarking for ML systems.
+
+# Measuring Power
+
+[This repo](https://github.com/mlcommons/power-dev) contains the development branch of MLPerf™ power measurement code. Everything is Apache 2.0 code developed by MLCommons™. Access is available to anyone.
+
+MLPerf™ is using [SPEC PTDaemon] tool for measuring power. Please see [this README](https://github.com/mlcommons/power-dev/tree/master/ptd_client_server) for more details on how to use it.
+
+[This tutorial](https://github.com/mlcommons/ck/blob/master/docs/tutorials/mlperf-inference-power-measurement.md) demonstrates how to do a power measurement setup and do MLPerf™ Inference benchmarking with power measurements using [MLCommons CK2/CM framework](https://github.com/mlcommons/ck).
 
 # MLPerf Data
 
-All data (except for Figure 11b) is publicaly accessible on the MLCommons website (https://mlcommons.org/benchmarks/). The data is separated by category, so for example, you can access the inference datacenter submission measurements across all benchmarks and versions at (https://mlcommons.org/benchmarks/inference-datacenter/). To access submissions with power measurements, click on the 'Division/Power' dropdown in the Results table and set it to 'Closed - Power'. Now, you can access every submission with submitted power measurements across every MLPerf version and division benchmark.
+All data (except for Figure 11b) is publicaly accessible on the [MLCommons benchmarks website](https://mlcommons.org/benchmarks/). The data is separated by category, so for example, you can access the inference datacenter submission measurements across all benchmarks and versions [here](https://mlcommons.org/benchmarks/inference-datacenter/). To access submissions with power measurements, click on the 'Division/Power' dropdown in the Results table and set it to 'Closed - Power'. Now, you can access every submission with submitted power measurements across every MLPerf version and division benchmark.
 
 The raw data dumped from the MLPerf benchmark website can be found in '/raw_data.csv'. This contains all power and performance data from all submission divisions. This raw data is an aggregation from exporting all data directly from the website. Between the public data found on the website and '/raw_data.csv', there is no data processing beyond a simple aggregation.
 
@@ -28,7 +38,7 @@ We encourage users to build on our analysis and draw deeper insights from the ML
 
 Description - Performance trends of MLPerf Inference submissions vs Moore's Law.
 
-Data Source - Performance numbres are from the publicly accessible MLPerf inference data (same data as MLPerf Inference Benchmark paper, ISCA 2020, https://arxiv.org/pdf/1911.02549).
+Data Source - Performance numbres are from the publicly accessible MLPerf inference data (same data as [MLPerf Inference Benchmark paper](https://arxiv.org/pdf/1911.02549), ISCA 2020).
 
 ## Figure 2
 
