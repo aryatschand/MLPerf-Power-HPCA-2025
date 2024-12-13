@@ -12,7 +12,7 @@ MLPerf™ is using [SPEC PTDaemon] tool for measuring power. Please see [this RE
 
 # Power Measurement Tutorial using MLCommons CM
 
-*Prepared by the [MLCommons taskforce on automation and reproducibility](../taksforce.md) and [OctoML](https://octoml.ai)*.
+*Prepared by the MLCommons taskforce on automation and reproducibility and [OctoML](https://octoml.ai)*.
 
 ## Requirements
 
@@ -42,7 +42,7 @@ Please follow these [instructions](https://github.com/mlcommons/ck/blob/master/d
 
 ## Start Power Server (Power analyzer should be connected to this computer and PTDaemon runs here)
 
-If you are having GitHub access to [MLCommons power](https://github.com/mlcommons/power) repository, PTDaemon should be automatically installed using the following CM command:
+If you are having GitHub access to [MLCommons power](https://github.com/mlcommons/power-dev) repository, PTDaemon should be automatically installed using the following CM command:
 
 PS: The below command will ask for `sudo` permission on Linux and should be run with administrator privilege on Windows (to do NTP time sync).
 ```bash
