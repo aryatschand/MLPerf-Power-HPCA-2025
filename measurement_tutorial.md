@@ -85,6 +85,10 @@ cm run script --tags=run,docker,container --cm_repo=ctuning@mlcommons-ck  \
 
 [Link](https://access.cknowledge.org/playground/?action=howtorun&bench_uid=39877bb63fb54725)
 
+## Specific Power Measurement Example
+
+In one v4.0 MLPerf training power measurement submission from SMC, Dell XE9680 systems with 8x high-performance H100 GPUs were used within an immersion cooling environment for enhanced thermal management. The system was powered by shelves via a 54V/1000A DC bus. A custom-built CAN bus monitors the collected data directly from the rectifier modules, broadcasting status packets at 5Hz, including instantaneous input and output power. Data was polled from the power shelf monitors at 1Hz to collate data and produce outputs.
+
 ## Further questions?
 
 If you have further questions, are interested in our development roadmap, or need help to automate, optimize and validate your MLPerf submission, feel free to contact the MLCommons taskforce on automation and reproducibility.
