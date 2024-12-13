@@ -68,7 +68,7 @@ Data Source - Energy efficiency numbers are from the publicly accessible MLPerf 
 
 Description - Energy consumption breakdown and time-to-train for Llama2-70b fine runing across different training system scales.
 
-Data Source - Energy consumption and time-to-train numbers are from the publicly accessible MLPerf Power Training v4.0 data. Specifically, submissions 4.0-0090 - 4.0-0097. Energy breakdown numbers are in the publicly accessible notes for these submissions.
+Data Source - Energy consumption and time-to-train numbers are from the publicly accessible MLPerf Power Training v4.0 data. Specifically, submissions v4.0-0090 - v4.0-0097. Energy breakdown numbers are in the publicly accessible notes for these submissions.
 
 ## Figure 7
 
@@ -88,7 +88,7 @@ Description - Energy efficiency at low and high accuracy BERT benchmark targets.
 
 Data Source - Energy efficiency numbers are from publicly accessible MLPerf Power Training v1.0 - v4.0 data on comparable NVIDIA DGX 8 accelerator system submissions on the LLama2 benchmark. Specifically, the submissions are:
 
-v1.0 - 1.0-73, v1.1 - 1.1-048, v2.0 - 2.0-095, v2.1 - 2.1-0089, v3.1 - 3.1-0109, v4.0 - 4.0-0063
+v1.0-73, v1.1-048, v2.0-095, v2.1-0089, v3.1-0109, v4.0-0063
 
 ## Figure 10
 
@@ -102,7 +102,7 @@ Description - Energy efficiency from software optimizations on an identical syst
 
 Data Source - Energy efficiency numbers are from publicly accessible MLPerf Power offline inference edge v1.1 - v3.1 data on comparable GIGABYTE R282 system submissions on the ResNet benchmark. Specifically, the submissions are:
 
-v1.1 - 1.1-124, v2.0 - 2.0-132, v3.0 - 3.0-0101, v3.1 - 3.1-0127
+v1.1-124, v2.0-132, v3.0-0101, v3.1-0127
 
 ## Figure 11b
 
